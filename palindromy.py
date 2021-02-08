@@ -4,4 +4,4 @@ def czy_palindrom(wyraz):
         print(f"{wyraz} to palindrom")
     else:
         print(f"{wyraz} nie jest palindromem")
-czy_palindrom('palindrom')
+czy_palindrom('kodilla')
